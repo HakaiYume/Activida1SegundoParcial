@@ -7,6 +7,17 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
+/* 
+    Universidad Tecnológica Metropolitana
+    Aplicaciones Web Orientadas a Objetos
+    Docente: Chuc Uc Joel Ivan
+    Actividad: Actividad 1
+    Alumno: Daniel Francisco Puch Ceballos
+    Cuatrimestre: 4
+    Parcial: 1
+    Grupo: A
+*/
+
 namespace Actividad1
 {
     public class Program
